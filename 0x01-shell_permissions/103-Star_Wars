@@ -1,2 +1,2 @@
 #!/bin/bash
-play file
+telnet towel.blinkenlights.nl
