@@ -1,6 +1,6 @@
 Linux Shell Permissions
 =============
-### Useful Resources (in addition to man chmod & man chown)
+### Useful Resources (in addition to ```man chmod``` ```man chown```)
 
 - [Tasks 0-9: Learning the shell](http://linuxcommand.org/lc3_lts0090.php)
 
